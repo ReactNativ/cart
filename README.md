@@ -25,6 +25,10 @@
 
 * Run `npx react-native run-android`
 
+#### Test
+
+* Run `yarn test`
+
 ## License
 
 Released under the [MIT License](http://opensource.org/licenses/MIT).
