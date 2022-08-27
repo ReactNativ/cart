@@ -1,0 +1,110 @@
+[
+    {
+        "id": "0",
+        "name": "Margherita",
+        "price": 17.25,
+        "image": "https://i.imgur.com/8B8YLOo.jpg"
+    },
+    {
+        "id": "1",
+        "name": "Rome",
+        "price": 25.75,
+        "image": "https://i.imgur.com/3ZTwCfz.png"
+    },
+    {
+        "id": "2",
+        "name": "American Spicy",
+        "price": 30.25,
+        "image": "https://i.imgur.com/dyoOLCO.png"
+    },
+    {
+        "id": "3",
+        "name": "Quattro Stagioni",
+        "price": 27.25,
+        "image": "https://i.imgur.com/wOEuXuV.jpg"
+    },
+    {
+        "id": "4",
+        "name": "Pork & Feta",
+        "price": 27.25,
+        "image": "https://i.imgur.com/48Zw4K3.png"
+    },
+    {
+        "id": "5",
+        "name": "Quattro Formaggi",
+        "price": 35.15,
+        "image": "https://i.imgur.com/MDrTvkI.jpg"
+    },
+    {
+        "id": "6",
+        "name": "Carnivora",
+        "price": 27.25,
+        "image": "https://i.imgur.com/0vPtSSO.png"
+    },
+    {
+        "id": "7",
+        "name": "Louisiana Chicken",
+        "price": 20,
+        "image": "https://i.imgur.com/lZtwJgy.png"
+    },
+    {
+        "id": "8",
+        "name": "Honey Mustard Chicken",
+        "price": 19.8,
+        "image": "https://i.imgur.com/SoZu61g.png"
+    },
+    {
+        "id": "9",
+        "name": "Hawaiian",
+        "price": 27.25,
+        "image": "https://i.imgur.com/mqTgvgl.png"
+    },
+    {
+        "id": "10",
+        "name": "Classic",
+        "price": 27.25,
+        "image": "https://i.imgur.com/k6IGrUd.png"
+    },
+    {
+        "id": "11",
+        "name": "Pastrami",
+        "price": 27.25,
+        "image": "https://i.imgur.com/yOe5RtC.png"
+    },
+    {
+        "id": "12",
+        "name": "Hot Pastrami",
+        "price": 27.25,
+        "image": "https://i.imgur.com/ipMA5LP.png"
+    },
+    {
+        "id": "13",
+        "name": "Country",
+        "price": 27.25,
+        "image": "https://i.imgur.com/E67Xf8Y.png"
+    },
+    {
+        "id": "14",
+        "name": "Hot Cheese",
+        "price": 27.25,
+        "image": "https://i.imgur.com/v4sa2cA.png"
+    },
+    {
+        "id": "15",
+        "name": "Ocean",
+        "price": 30,
+        "image": "https://i.imgur.com/w5IQ2rX.png"
+    },
+    {
+        "id": "16",
+        "name": "BBQ",
+        "price": 28.5,
+        "image": "https://i.imgur.com/znqS9KD.png"
+    },
+    {
+        "id": "17",
+        "name": "Mexicana",
+        "price": 28.5,
+        "image": "https://i.imgur.com/cYpO8RT.png"
+    }
+]
